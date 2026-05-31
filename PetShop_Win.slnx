@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PetShop_Negocio/PetShop_Negocio.csproj" Id="7d71fb25-a504-45ad-b091-f1cce70893a4" />
+  <Project Path="PetShop_Win/PetShop_Win.csproj" Id="f8c2097a-2de1-44e9-858d-ffe8ed5eddb5" />
+</Solution>

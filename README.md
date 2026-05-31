@@ -45,7 +45,7 @@ Este projeto vai além de um simples CRUD, implementando padrões de mercado par
 
 2. Configuração do Banco de Dados:
    * Abra o SQL Server Management Studio (SSMS).
-   * Abra e execute o arquivo Script_PetShop.sql (localizado na raiz do projeto).
+   * Abra e execute o arquivo Script_PetShop.sql.
    * Este script criará automaticamente o banco de dados PetShopBanco, todas as tabelas, as travas de segurança e as credenciais iniciais.
 
 3. Execução:
@@ -58,4 +58,5 @@ Este projeto vai além de um simples CRUD, implementando padrões de mercado par
 ## 👨‍💻 Autor
 
 Breno Almada Poltronieri
+
 Graduando em Engenharia de Computação
